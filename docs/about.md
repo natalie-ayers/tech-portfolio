@@ -8,7 +8,7 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
+1. Current student in MS in Computational Analysis and Public Policy @Harris School of Public Policy at the University of Chicago
 1. Organizations you're involved with
 1. Your personal and professional values
 1. Hobbies or fun facts
@@ -25,8 +25,4 @@ Grace Hopper Celebration Attendee
 
 - 2020 Awesome Woman in Technology Award
 
-## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
